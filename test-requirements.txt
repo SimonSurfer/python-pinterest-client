@@ -1,2 +1,4 @@
 Fabric
 nose
+mock
+coverage
